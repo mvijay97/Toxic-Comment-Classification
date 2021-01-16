@@ -25,4 +25,4 @@ The HAN implemented for this problem operates on a two level hierarchy, one that
 * Download the dataset at <a href='https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data'> Wikipedia Toxic Comment Dataset</a>
 * Download the pretrained Glove embeddings at <a href='https://nlp.stanford.edu/projects/glove/'> Glove.6B </a>
 * Run the HAN-WordLevel.ipynb notebook to train and test a network with only word level attention 
-* Run the HAN-SentenceLevel.ipyb notebook to train and test a network with word and sentence level attention
+* Run the HAN-SentenceLevel.ipynb notebook to train and test a network with word and sentence level attention
