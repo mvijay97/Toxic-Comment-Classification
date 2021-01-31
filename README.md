@@ -20,6 +20,8 @@ The HAN implemented for this problem operates on a two level hierarchy, one that
 8. The outputs of the sentence level attention layer are fed into a fully connected dense layer (no. of neurons = 6). 
 9. Binary Cross Entropy loss computed.
 
+<img src="https://github.com/mvijay97/Toxic-Comment-Classification/blob/main/Architecture.jpg"></img>
+
 ## How to Run
 
 * Download the dataset at <a href='https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data'> Wikipedia Toxic Comment Dataset</a>
